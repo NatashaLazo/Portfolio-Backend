@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Courflix",
+    "descripcion": "Imitación a Netflix. Utilice ReactJS, CSS3, SASS. Rutas dinamicas, y libreria Slick. ",
+    "image": "https://i.ibb.co/1061Z30/courflix.png",
+    "link": "https://courflix-react-murex.vercel.app/"
+  },
+  {
+    "name": "Tinder Clone",
+    "descripcion": "Imitación a Tinder. Utilice ReactJS, CSS3. rutas dinamicas, Hooks. ",
+    "image": "https://i.ibb.co/xCt7Y9h/tinder.png",
+    "link": "https://tinderclone-odfzozvfm-natashalazo.vercel.app/"
+  },
+  {
+    "name": "Proyecto Food",
+    "descripcion": "Imitación de una página de restaurant. Utilice HTML5, CSS3, y JAVASCRIPT",
+    "image": "https://i.ibb.co/VWPdGB8/proyectofood.png",
+    "link": "https://proyecto-food.vercel.app/"
+  }
+]
